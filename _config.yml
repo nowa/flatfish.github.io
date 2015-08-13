@@ -1,0 +1,5 @@
+name: Flatfish.im
+markdown: redcarpet
+pygments: true
+paginate: 30
+permalink: /:year/:month/:day/:title.html
